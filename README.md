@@ -1,1 +1,1 @@
-# image-patch-extraction
+# Extract patches from input images and then sticth the patches to reconstruct the patches to obtain input image
